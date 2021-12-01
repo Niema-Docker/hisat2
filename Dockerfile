@@ -1,4 +1,4 @@
-# Minimal Docker image for HISAT2 v2.2.1 using Alpine base
+# Minimal Docker image for HISAT2 using Alpine base
 FROM alpine:3.13.5
 MAINTAINER Niema Moshiri <niemamoshiri@gmail.com>
 
